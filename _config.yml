@@ -2,7 +2,7 @@
 title: 'urain39&#39;s Blog'
 description: '记录生活中的点点滴滴，但总是写不好'
 keyword: urain39, KngetPy, 雨, urain39的博客, urain39&#39s Blog'
-url: 'http://cyfan.cf' # your host
+url: 'https://urain39.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -35,7 +35,7 @@ comments:
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
-mathjax: true
+mathjax: false
 
 # Share
 social-share: true
@@ -50,7 +50,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto://hexiedeshijie@gamil.com'
+  email: 'mailto:hexiedeshijie@gamil.com'
   #weibo: '//weibo.com/lovecolcol'
   #juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   #instagram: '//www.instagram.com/steveliaocn'
